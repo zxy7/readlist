@@ -30,6 +30,7 @@
 1. 三体（全集），by 刘慈欣，2018年11月
 
 ## 技术
+1. [github秘籍](https://www.kancloud.cn/thinkphp/github-tips/37873),
 1. 有效需求分析，by 徐锋，2019年5月
 1. JavaScript设计模式与开发实践，by 曾探，2019年5月
 1. 黑客与画家，by Paul Graham, 2018年4月
