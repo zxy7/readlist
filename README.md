@@ -34,6 +34,7 @@
 
 ## 技术
 
+1. [快乐的 Linux 命令行](http://billie66.github.io/TLCL/index.html),
 1. [github 秘籍](https://www.kancloud.cn/thinkphp/github-tips/37873),
 1. [有效需求分析](./有效需求分析-zxy.xmind)，by 徐锋，2019 年 5 月
 1. JavaScript 设计模式与开发实践，by 曾探，2019 年 5 月
