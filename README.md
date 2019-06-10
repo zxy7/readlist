@@ -33,7 +33,8 @@
 1. 三体（全集），by 刘慈欣，2018 年 11 月
 
 ## 技术
-
+1. [http3详解](https://http3-explained.haxx.se/zh/), by Daniel Stenberg, 2019 年 6 月
+1. 深入React技术栈, by 陈屹, 2019 年 6 月
 1. [快乐的 Linux 命令行](http://billie66.github.io/TLCL/index.html),
 1. [github 秘籍](https://www.kancloud.cn/thinkphp/github-tips/37873),
 1. [有效需求分析](./有效需求分析-zxy.xmind)，by 徐锋，2019 年 5 月
