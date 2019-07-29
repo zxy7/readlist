@@ -34,8 +34,9 @@
 
 ## 技术
 
+1. [深入理解 TypeScript](https://jkchao.github.io/typescript-book-chinese/), by jkchao, 2019 年 8 月
 1. [http3 详解](https://http3-explained.haxx.se/zh/) ,[导图](http3详解.xmind), by Daniel Stenberg, 2019 年 6 月
-1. 深入 React 技术栈, by 陈屹, 2019 年 6 月
+1. 深入 React 技术栈, by 陈屹, 2019 年 7 月
 1. [快乐的 Linux 命令行](http://billie66.github.io/TLCL/index.html),
 1. [github 秘籍](https://www.kancloud.cn/thinkphp/github-tips/37873),
 1. [有效需求分析](./有效需求分析-zxy.xmind)，by 徐锋，2019 年 5 月
@@ -44,7 +45,7 @@
 
 ## 杂类
 
-1. 穷查理宝典，by 
+1. 穷查理宝典，by 查理·芒格 /彼得·考夫曼, 2019 年 8 月
 1. 原则，by 
 1. 穷爸爸富爸爸，by 罗伯特·清崎， 2019 年 6 月
 1. 天才在左 疯子在右，by 高铭，2019 年 5 月
